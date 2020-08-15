@@ -9,4 +9,5 @@
 print("dsayf")
 print("houddhaouh")
 print("usaiu")
-
+print("udsiuagugwgiu")
+print("雷霆嘎巴")
